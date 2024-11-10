@@ -39,4 +39,4 @@
 Обратите внимание, что к проверке принимаются только ссылки на страницу редактора таблицы, и не принимаются ссылки на архивы с просмотром и скачиванием. Пример того, как выглядит страница редактора в Яндексе: https://prnt.sc/ge74AFMYp6yO и в google: https://prnt.sc/lTxYnXJXXlfG
 
 # [Решение з.1](https://docs.google.com/spreadsheets/d/1O_zgsCG13raXF-5GhCbQkNxLxDWNmUO-7zoksJl-7Yc/edit?gid=0#gid=0)
-# [Решение з.2](https://docs.google.com/document/d/1QQ2x-0uzztMLjUap08oQqpNl7X75riPEY6hcVdvxl04/edit?tab=t.0))
+# [Решение з.2](https://docs.google.com/document/d/1QQ2x-0uzztMLjUap08oQqpNl7X75riPEY6hcVdvxl04/edit?tab=t.0)
